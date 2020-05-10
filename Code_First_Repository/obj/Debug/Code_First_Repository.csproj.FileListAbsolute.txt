@@ -1,0 +1,32 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\Code_First_Repository.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\Code_First_Repository.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\Code_First_Repository.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\EntityFramework.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\EntityFramework.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.csproj.CopyComplete
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.Form2.resources
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\Code_First_Repository.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\Code_First_Repository.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\Code_First_Repository.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\EntityFramework.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\EntityFramework.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.Form2.resources
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.csproj.CopyComplete
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Repository\Code_First_Repository\obj\Debug\Code_First_Repository.pdb
